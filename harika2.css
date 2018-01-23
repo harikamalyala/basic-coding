@@ -1,0 +1,17 @@
+body
+   {
+       background-color: aqua;
+    }
+h1
+   { 
+       text-align: center;
+       color: blue;
+       font-size: 100px;
+       font-family: courier;
+    }
+img
+   {
+       border: 0;
+       height: 10%;
+       width: 10%;
+    }
